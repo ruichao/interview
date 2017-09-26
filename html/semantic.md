@@ -1,6 +1,6 @@
 ## Semantic markup
 
-New HTML5 markup tags
+### New HTML5 markup tags
 
 * header
 * footer
@@ -25,3 +25,11 @@ Fallback
 </script>
 <![endif] -->
 ```
+
+
+### old tag with new meaning
+
+* dl 
+
+In previous versions of HTML, the `<dl>` element defines a definition list. Now in HTML5 `<dl>` defines a description list.
+
