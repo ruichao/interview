@@ -29,7 +29,7 @@ Fallback
 
 ### old tag with new meaning
 
-* dl 
+* dl
 
 In previous versions of HTML, the `<dl>` element defines a definition list. Now in HTML5 `<dl>` defines a description list.
 
